@@ -1,7 +1,0 @@
-That line is added just to push changes to GitHub to chock out of the repository trigger to Jenkins Job
-double attempt
-I forgot to build trigger "GitHub hook trigger for GITScm polling"
-
-Rename branch main to master
-
-Rename repository 2

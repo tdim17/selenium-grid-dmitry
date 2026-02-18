@@ -1,0 +1,12 @@
+This project about CI/CD automation flow. To see how it works in reality.
+I can make some changes here and see result which is going throw the flow:
+GITHub takes changes > GHub trigger the Jenkins by Hook trigger > Jenkins is coming in his role
+
+
+That line is added just to push changes to GitHub to check out of the repository trigger to Jenkins Job
+double attempt
+I forgot to build trigger "GitHub hook trigger for GITScm polling"
+
+Rename branch main to master
+
+Rename repository 2
